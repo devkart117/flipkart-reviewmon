@@ -6,3 +6,4 @@ data/output.xlsx
 data/
 logs/script.log
 */**/__pycache__/*
+capture-log.txt
